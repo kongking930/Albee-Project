@@ -1,0 +1,4 @@
+Git init
+Git Config --global user.name"[Albee Zhan]"
+Git Add
+Git commit
